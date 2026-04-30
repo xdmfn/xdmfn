@@ -1,16 +1,16 @@
 # 👋 你好，我是 xdmfn
 
-> Java 后端工程师 · 百度 QA · AI Agent 爱好者
+> Java 后端工程师 · QA · AI Agent开发工程师
 
 ## 📌 当前工作
 - 🔭 开发 **XDMiniClaw** 及 **AI Agent 应用**
 - 🌱 学习 **Agent 相关技术**
 - 👯 期待在 **开源 AI 项目** 中协作
-- 🤝 探索 **AgentContext 性能优化** 与 **Agent 稳定性**
+- 🤝 探索 **AgentContext 性能优化** 与 **Agent Harness 稳定性**
 
 ## 💬 和我聊聊
-- **Java 后端 & Spring Boot**
-- **QA 自动化测试**
+- **AIQA 自动化测试**
+- **vibe Coding**
 - 任何关于 AI Agent 的想法
 
 ## 📫 联系我
