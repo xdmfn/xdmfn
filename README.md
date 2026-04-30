@@ -2,7 +2,7 @@
 
 > Java 后端工程师 · QA · AI Agent 开发工程师  
 > 致力于将 AI Agent 技术应用于自动化测试与效率工具，探索多 Agent 协作与工具调用（Tool Use）。
-
+> FuckOffer面试实时面试助手的作者和Coder https://www.brpnted.cn/
 ## 📌 当前工作
 - 🔭 开发 **XDMiniClaw** 及 **AI Agent 应用**
 - 🌱 学习 **Agent 相关技术**（多 Agent 协作、记忆与上下文管理）
