@@ -1,35 +1,43 @@
-# 嗨 👋，我是 xdmfn
+# 👋 你好，我是 xdmfn
 
-### Java 后端工程师 & 百度 QA
+> Java 后端工程师 · 百度 QA · AI Agent 爱好者
 
-- 🔭 我目前在开发 **XDMiniClaw 和 AI Agent 应用**
-- 🌱 我正在学习 **Agent 相关技术**
-- 👯 我期待参与 **开源 AI 项目**
-- 🤝 我需要帮助来 **优化 AgentContext 的性能和 Agent 的稳定性**
-- 💬 欢迎问我有关 **Java 后端、Spring Boot 以及 QA 自动化** 的问题
-- 📫 联系我 **xdmfnxd@qq.com**
+## 📌 当前工作
+- 🔭 开发 **XDMiniClaw** 及 **AI Agent 应用**
+- 🌱 学习 **Agent 相关技术**
+- 👯 期待在 **开源 AI 项目** 中协作
+- 🤝 探索 **AgentContext 性能优化** 与 **Agent 稳定性**
 
-<h3 align="left">与我联系：</h3>
-<p align="left">
-<a href="https://github.com/xdmfn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="xdmfn" height="30" width="40" /></a>
-<a href="https://leetcode.com/XDMFN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="XDMFN" height="30" width="40" /></a>
+## 💬 和我聊聊
+- **Java 后端 & Spring Boot**
+- **QA 自动化测试**
+- 任何关于 AI Agent 的想法
+
+## 📫 联系我
+- 邮箱：[xdmfnxd@qq.com](mailto:xdmfnxd@qq.com)
+- 社交：[GitHub](https://github.com/xdmfn) · [LeetCode](https://leetcode.com/XDMFN)
+
+## 🛠 技能树
+### 后端 & 框架
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+### 数据库 & 消息队列
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
+
+### DevOps & 工具
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
+## 📊 GitHub 统计
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xdmfn&theme=default" alt="GitHub Streak" />
 </p>
-
-<h3 align="left">语言与工具：</h3>
-<p align="left"> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/kubernetes" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/ollama" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/ollama" alt="ollama" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/rabbitMQ" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=rabbitmq" alt="rabbitMQ" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/redis" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/spring" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/> </a>
-</p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xdmfn&" alt="xdmfn" /></p>
