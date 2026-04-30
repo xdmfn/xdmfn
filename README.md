@@ -1,16 +1,17 @@
 # 👋 你好，我是 xdmfn
 
-> Java 后端工程师 · QA · AI Agent开发工程师
+> Java 后端工程师 · QA · AI Agent 开发工程师  
+> 致力于将 AI Agent 技术应用于自动化测试与效率工具，探索多 Agent 协作与工具调用（Tool Use）。
 
 ## 📌 当前工作
 - 🔭 开发 **XDMiniClaw** 及 **AI Agent 应用**
-- 🌱 学习 **Agent 相关技术**
+- 🌱 学习 **Agent 相关技术**（多 Agent 协作、记忆与上下文管理）
 - 👯 期待在 **开源 AI 项目** 中协作
 - 🤝 探索 **AgentContext 性能优化** 与 **Agent Harness 稳定性**
 
 ## 💬 和我聊聊
 - **AIQA 自动化测试**
-- **vibe Coding**
+- **Vibe Coding**（直觉驱动开发）
 - 任何关于 AI Agent 的想法
 
 ## 📫 联系我
@@ -18,6 +19,7 @@
 - 社交：[GitHub](https://github.com/xdmfn) · [LeetCode](https://leetcode.com/XDMFN)
 
 ## 🛠 技能树
+
 ### 后端 & 框架
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
@@ -28,6 +30,16 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
+
+### AI Agent 开发
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=flat&logo=llamaindex&logoColor=white)
+![AutoGPT](https://img.shields.io/badge/AutoGPT-7B79F7?style=flat&logo=autogpt&logoColor=white)
+![OpenAI API](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Chroma](https://img.shields.io/badge/Chroma-FF8000?style=flat&logo=chroma&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat&logo=pinecone&logoColor=white)
+![Function Calling](https://img.shields.io/badge/Function_Calling-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-FF6F00?style=flat&logo=readthedocs&logoColor=white)
 
 ### DevOps & 工具
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
