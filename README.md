@@ -36,8 +36,3 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-
-## 📊 GitHub 统计
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xdmfn&theme=default" alt="GitHub Streak" />
-</p>
