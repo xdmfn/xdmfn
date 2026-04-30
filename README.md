@@ -1,17 +1,15 @@
 # 👋 你好，我是 xdmfn
 
-> Java 后端工程师 · QA · AI Agent 开发工程师  
-> 致力于将 AI Agent 技术应用于自动化测试与效率工具，探索多 Agent 协作与工具调用（Tool Use）。
+> Java 全站工程师 · QA · AI Agent 开发工程师  
+> 致力于将 AI Agent 技术应用于效率工具，探索多 Agent 协作与效率提升
 > FuckOffer面试实时面试助手的作者和Coder https://www.brpnted.cn/
 ## 📌 当前工作
-- 🔭 开发 **XDMiniClaw** 及 **AI Agent 应用**
-- 🌱 学习 **Agent 相关技术**（多 Agent 协作、记忆与上下文管理）
-- 👯 期待在 **开源 AI 项目** 中协作
-- 🤝 探索 **AgentContext 性能优化** 与 **Agent Harness 稳定性**
+- 🔭 开发 **FuckOffer** 、**XDMiniClaw** 及 **AI Agent 应用**
+- 🌱 学习 **Agent 相关技术**（多 Agent 协作、记忆与上下文管理、Harness）
 
 ## 💬 和我聊聊
 - **AIQA 自动化测试**
-- **Vibe Coding**（直觉驱动开发）
+- **Vibe Coding**
 - 任何关于 AI Agent 的想法
 
 ## 📫 联系我
